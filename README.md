@@ -1,5 +1,5 @@
 # UbuntuAD
-![UbuntuAD](https://i.imgur.com/M9s7KMNu.jpg)
+![DC-computer](https://github.com/rasheedjimoh/UbuntuAD/assets/157264080/b30df6ca-fb29-4d12-a184-0cf1485b2919)
 
 ## Introduction
 In the enterprise world, most servers run on Linux operating systems. Embark on a journey to integrate Ubuntu Server (UbuntuServer00) into the existing Active Directory environment (mydomain.com). This project aims for centralized user credential management, heightened security, and a seamless user experience.
@@ -17,11 +17,11 @@ In the enterprise world, most servers run on Linux operating systems. Embark on 
 ## Process/Procedure Overview
 
 ## Pre-Installation Checks
-1. Check if the IP address is assigned by our domain controller and in the DHCP scope we created in Active Directory Lab.
+**1. Check if the IP address is assigned by our domain controller and in the DHCP scope we created in Active Directory Lab.**
    ![IPconfig](https://github.com/rasheedjimoh/UbuntuAD/assets/157264080/20e383f3-b9ce-441e-b8a0-005dda6706ce)
-2. Verify SSH is working form DC(domain controller)
+**2. Verify SSH is working form DC(domain controller)**
    ![SSH-from-DC](https://github.com/rasheedjimoh/UbuntuAD/assets/157264080/12f58d22-1335-453f-888f-cd56b86d9aef)
-3. Verify the date, time and timezone.
+**3. Verify the date, time and timezone.**
    ![date, time and timezone](https://github.com/rasheedjimoh/UbuntuAD/assets/157264080/ff7e2263-17a1-4bcd-a117-efa2008ebfed)
 
 
@@ -52,7 +52,7 @@ Became a sudoer.
 
 
 ## Successfully Signed on
-We successfully joined the domain(mydomain.com) now.
+**We successfully joined the domain(mydomain.com) now.**
 ![Success](https://github.com/rasheedjimoh/UbuntuAD/assets/157264080/fcc0fa82-3cec-4a8d-a2da-5e78bf16e004)
 
 
