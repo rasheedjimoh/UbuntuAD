@@ -87,5 +87,4 @@ Became a sudoer.
 
 
 ## Conclusion
-
-
+The successful integration of Ubuntu Server into the Active Directory domain showcases our adeptness in harmonizing diverse systems. With flawless authentication and heightened security through Kerberos and LDAP, we stride forward, well-prepared for intricate IT landscapes. This achievement marks a milestone in crafting resilient and interconnected digital environments.
