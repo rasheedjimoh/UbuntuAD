@@ -1,6 +1,8 @@
 # UbuntuAD
 ![DC-computer](https://github.com/rasheedjimoh/UbuntuAD/assets/157264080/b30df6ca-fb29-4d12-a184-0cf1485b2919)
 
+![ip-confirmed](https://github.com/rasheedjimoh/UbuntuAD/assets/157264080/2edf29e0-762a-41a1-bab8-af6d29548c75)
+
 ## Introduction
 In the enterprise world, most servers run on Linux operating systems. Embark on a journey to integrate Ubuntu Server (UbuntuServer00) into the existing Active Directory environment (mydomain.com). This project aims for centralized user credential management, heightened security, and a seamless user experience.
   
