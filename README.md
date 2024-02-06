@@ -30,7 +30,7 @@ In the enterprise world, most servers run on Linux operating systems. Embark on 
 ![rdns-problem](https://github.com/rasheedjimoh/UbuntuAD/assets/157264080/17f88038-a0f8-4086-9b3a-1a4fe7d1392a)
 
 ## Resolution
-**Reverse DNS(rdns) set to false**
+**Reverse DNS(rdns) set to false: To be able to successfully join the domain, You have to edit the /etc/krb5.conf and set rdns to false like this then restart**
 ![rdns-set-false](https://github.com/rasheedjimoh/UbuntuAD/assets/157264080/d1d0f01f-0749-4225-9785-cb7accc3446b)
 
 ## Configuration file modifications
