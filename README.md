@@ -1,7 +1,23 @@
 # UbuntuAD
 
 ## Introduction
-In the enterprise world, most servers run on Linux operating systems. Embark on a journey to integrate Ubuntu Server (UbuntuServer00) into the existing Active Directory environment (mydomain.com). This project aims for centralized user credential management, heightened security, and a seamless user experience.
+In the enterprise world, most servers run on Linux operating systems. Embark on a journey to integrate Ubuntu Server (UbuntuServer00) into the existing Active Directory environment (mydomain.com). This project aims for centralized user credential management, heightened security and a seamless user experience.
+
+ ### Let's break it down:
+
+1. **Linux**: Linux is an operating system, much like Windows or macOS. It's known for being open-source, meaning anyone can view, modify and distribute its source code. Many servers and devices, including Android smartphones, run on Linux because of its stability, security and flexibility.
+
+2. **Ubuntu**: Ubuntu is a popular distribution (or "flavor") of Linux. Think of it as a specific version of Linux tailored for ease of use and reliability. It's widely used in both personal and enterprise environments, offering a user-friendly interface and a vast repository of software applications.
+
+3. **Active Directory**: Active Directory (AD) is a Microsoft technology primarily used in Windows-based environments for managing users, computers and other resources on a network. It provides centralized authentication, authorization and management services, allowing administrators to control access to various network resources and enforce security policies.
+
+4. **SSSD (System Security Services Daemon)**: SSSD is a service commonly used in Linux environments to facilitate integration with centralized identity and authentication systems, such as Active Directory. It enables Linux systems to authenticate users against AD and access resources like files, printers and applications that are managed within the Active Directory domain.
+
+Now, how do they connect?
+
+Ubuntu, a distribution of Linux, serves as the operating system for various devices or servers within an organization. On the other hand, Active Directory is a centralized identity management system typically associated with Windows environments. However, with the help of SSSD, Ubuntu systems can seamlessly integrate with Active Directory.
+
+In practical terms, this means that employees can use their Active Directory credentials (username and password) to log in to Ubuntu machines, access shared files and printers and utilize other resources managed by Active Directory. This integration simplifies user management for IT administrators, ensures consistency across the network and enhances security by centralizing authentication processes.
 
 ---------------
 
