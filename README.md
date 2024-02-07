@@ -1,4 +1,4 @@
-# UbuntuAD
+# Linux: Active Directory Integration for Ubuntu
 
 ## Introduction
 In the enterprise world, most servers run on Linux operating systems. Embark on a journey to integrate Ubuntu Server (UbuntuServer00) into the existing Active Directory environment (mydomain.com). This project aims for centralized user credential management, heightened security and a seamless user experience.
